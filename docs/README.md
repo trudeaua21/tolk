@@ -1,7 +1,7 @@
-# Tolk: Screen Reader Abstraction Library
+# Fork of Tolk: Screen Reader Abstraction Library
 
-* [Latest build from AppVeyor](https://ci.appveyor.com/api/projects/dkager/tolk/artifacts/tolk.zip?branch=master)
-* [Project page](https://davykager.com/projects/tolk/)
+**This is a fork of Davy Kager's Tolk Library, [seen here](https://github.com/dkager/tolk/). The following modifications have been made to this package:**
+- `README` has been modified
 
 ## Introduction
 
